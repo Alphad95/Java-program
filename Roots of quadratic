@@ -20,11 +20,10 @@ public class Squareroot {
 	
 	output:
 Enter the value of a
-2
+5
 Enter the value of b
-3
-Enter the value of c
-4
-Enter the value of s
-8
-Area of the triangle is:30.983866769659336
+10
+Enter the value of C
+15
+Root of equation is:-30.0
+Root of equation is:-32.0
