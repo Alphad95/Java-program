@@ -17,3 +17,10 @@ public class Demofile {
 	}
 
 }
+output:
+Enter the length of the Recatangle
+11
+Enter the width of the Rectangle
+20
+Enter the area of the Rectangle:220
+Enter the perimeter of the Rectangle:62
