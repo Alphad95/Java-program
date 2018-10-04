@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class Triangleofherons {
+
+	public static void main(String[] args) {
+		double a, b, c, s, area;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the value of a");
+		a = sc.nextDouble();
+		System.out.println("Enter the value of b");
+		b = sc.nextDouble();
+		System.out.println("Enter the value of c");
+		c = sc.nextDouble();
+		System.out.println("Enter the value of s");
+		s = sc.nextInt();
+		area = Math.sqrt(s*(s-a)*(s-b)*(s-c));
+		System.out.println("Area of the triangle is:" + area);
+	}
+
+}
+output:
+Enter the value of a
+22
+Enter the value of b
+40
+Enter the value of c
+2
+Enter the value of s
+4
+Area of the triangle is:72.0
